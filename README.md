@@ -1,4 +1,4 @@
-# bc2407-analytics-time-series-forecasting
+# Time Series prediction on water level
 
 Time Series prediction on changes in water level of aquifiers.
 
